@@ -1,0 +1,1 @@
+Place optional Lottie JSON files here using these names: idle, listening, boxing, happy, angry, dance, sleep, wheel, magic. The app currently uses its dependency-free procedural renderer, so missing files do not prevent startup.
